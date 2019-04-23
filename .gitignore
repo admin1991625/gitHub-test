@@ -1,4 +1,4 @@
-#需要过滤的文件格式1
+#需要过滤的文件格式
 .project
 .idea
 # Compiled class file
